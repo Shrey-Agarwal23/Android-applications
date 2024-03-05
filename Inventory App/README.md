@@ -1,5 +1,5 @@
 Inventory app
-
+An application to manage, sell and delete inventory items.
 
 
 Getting Started
